@@ -1,0 +1,131 @@
+.frame {
+    position: relative;
+    width: 277px;
+    height: 803px;
+  }
+.FRAGER {
+    width: 267px;
+    height: 171px;
+    position: absolute;
+    left: 1646px;
+    top: 215px;
+    
+  }
+  
+  .FRAGER .overlap-group {
+    position: relative;
+    height: 171px;
+  }
+  
+  .FRAGER .rectangle {
+    position: absolute;
+    width: 265px;
+    height: 39px;
+    top: 126px;
+    left: 1px;
+    background-color: black;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 86.51% 91.42%, 85.25% 100%, 4.87% 100%, 0% 67.5%);
+  }
+  
+  .FRAGER .rectangle-2 {
+    position: absolute;
+    width: 265px;
+    height: 79px;
+    top: 47px;
+    left: 1px;
+    background-color: #004E37;
+    clip-path: polygon(3.01% 0%, 28.95% 0%, 32.16% 12.5%, 92.11% 12.5%, 95.49% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 12.5%);
+  }
+  
+  .FRAGER .team-logo{
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    top: 51px;
+    left: 185px;
+    object-fit: cover;
+  }
+  
+  .FRAGER .player {
+    position: absolute;
+    width: 93px;
+    height: 128px;
+    top: 0;
+    left: 89px;
+  }
+  
+  .FRAGER .player-photo {
+    position: absolute;
+    width: 123px;
+    height: 181px;
+    top: -16px;
+    left: 72px;
+    object-fit: cover;
+  }
+  
+  .FRAGER .kill,
+  .FRAGER .position {
+    position: absolute;
+    font-family: "Teko-SemiBold", Helvetica, sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FRAGER .kill {
+    top: 55px;
+    left: 17px;
+    font-size: 20px;
+    
+  }
+  
+  .FRAGER .kill-point {
+    position: absolute;
+    top: 72px;
+    left: 32px;
+    font-family: "Teko-SemiBold", Helvetica, sans-serif;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FRAGER .position {
+    top: 132px;
+    left: 17px;
+    font-size: 23.1px;
+  }
+  
+  .FRAGER .player-name {
+    top: 132px;
+    left: 65px;
+    font-size: 23.1px;
+    position: absolute;
+    font-family: "Teko-SemiBold", Helvetica, sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+ .frager-box{
+    position: absolute;
+    width: 257px;
+    height: 52px;
+    top: 721px;
+    left: 10px;
+    background-color: black;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 89.52%, 84.17% 89.52%, 80.17% 100%, 6.77% 100%, 0% 74.55%);
+ }
+ .FRAGER .top-fragger{
+    top: 733px;
+    left: 65px;
+    font-size: 23.1px;
+    position: absolute;
+    font-family: "Teko-SemiBold", Helvetica, sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+ }

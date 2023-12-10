@@ -1,0 +1,190 @@
+.ALET {
+    width: 502px;
+    height: 166px;
+  }
+  
+  .ALET .overlap {
+    position: relative;
+    height: 165px;
+    top: 90px;
+    left: 700px;
+  }
+  
+  .ALET .frame {
+    position: absolute;
+    width: 502px;
+    height: 160px;
+    top: 0;
+    left: 0;
+  }
+  
+  .ALET .overlap-group {
+    position: relative;
+    height: 160px;
+  }
+  
+  .div {
+    position: absolute;
+    width: 357px;
+    height: 58px;
+    top: 97px;
+    left: 146px;
+  }
+  
+  .rectangle {
+    position: absolute;
+    width: 19.5px;
+    height: 15px;
+    top: 0;
+    left: 338px;
+    background-color: #02704D;
+    clip-path: polygon(0% 0%, 0% 0%, 100% 100%, 0% 100%);
+  }
+  
+  .rectangle-2 {
+    position: absolute;
+    width: 218px;
+    height: 43px;
+    top: 15px;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .rectangle-3 {
+    position: absolute;
+    width: 139px;
+    height: 43px;
+    top: 15px;
+    left: 218px;
+    background-color: #25e9ab;
+  }
+  
+  .rectangle-4 {
+    position: absolute;
+    width: 338px;
+    height: 113px;
+    top: -97px;
+    left: 0px;
+    background-color: #000000;
+    clip-path: polygon(0% 0%, 94.1% 0%, 100% 20.56%, 100% 100%, 0% 100%)
+  }
+  
+  .overlap-group-wrapper {
+    position: absolute;
+    width: 186px;
+    height: 160px;
+    top: -2px;
+    left: 10.5px;
+  }
+  .rectangle-5 {
+    position: absolute;
+    width: 186px;
+    height: 160px;
+    top: 0px;
+    left: 0px;
+    background-color: #00FEAD;
+    clip-path: polygon(100% 50%, 75% 100%, 25% 100%, 0% 50%, 25% 0%, 75% 0%);
+  }
+  .png-wrapper {
+    position: absolute;
+    width: 176px;
+    height: 150px;
+    top: 5px;
+    left: 5px;
+    background-color: #3E3E3E;
+    clip-path: polygon(100% 50%, 75% 100%, 25% 100%, 0% 50%, 25% 0%, 75% 0%);
+  }
+  
+   .png {
+    position: absolute;
+    width: 146px;
+    height: 142px;
+    top: 0px;
+    left: 19px;
+    object-fit: cover;
+  }
+  
+   .div-wrapper {
+    position: absolute;
+    width: 292px;
+    height: 64px;
+    top: 2px;
+    left: 180px;
+  }
+  
+   .text-wrapper {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    font-family: "Teko-SemiBold", Helvetica;
+    font-weight: 790;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+   .frame-2 {
+    position: absolute;
+    width: 285px;
+    height: 56px;
+    top: 58px;
+    left: 192px;
+  }
+  
+   .text-wrapper-2 {
+    position: absolute;
+    top: 3px;
+    left: 16px;
+    font-family: "Teko-SemiBold", Helvetica;
+    font-weight: 790;
+    color: #25e9ab;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ALET .frame-3 {
+    position: absolute;
+    width: 29px;
+    height: 56px;
+    top: 109px;
+    left: 412px;
+  }
+  
+  .ALET .text-wrapper-3 {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    font-family: "Teko-SemiBold", Helvetica;
+    font-weight: 790;
+    color: #000000;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ALET .frame-4 {
+    position: absolute;
+    width: 173px;
+    height: 56px;
+    top: 109px;
+    left: 172px;
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }

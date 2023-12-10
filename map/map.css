@@ -1,0 +1,75 @@
+.map {
+    position: absolute;
+    height: 1400px;
+    width: 100%;
+   top: 100px;
+   display: flex;
+   justify-content: space-between;
+  }
+  
+  .team-container {
+    flex-wrap: wrap;
+    height: 1080px;
+    justify-content: space-evenly;
+    flex: 1;
+  }
+  
+  .side1 {
+    height: 1080px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .team-box {
+    background-color: #004e37;
+    height: 104px;
+    width: 421px;
+    display: flex;
+    margin: 5px;
+    align-items: center;
+  }
+  
+  .logo {
+    background-color: #00fead;
+    height: 104px;
+    width: 115px;
+    object-fit: cover;
+  }
+  
+  .team-name {
+    color: #ffffff;
+    font-family: Teko;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .side2 {
+    height: 1080px;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .team-box {
+    background-color: #D6A4A4;
+    height: 104px;
+    width: 421px;
+    display: flex;
+    margin: 5px;
+    align-items: center;
+  }
+  
+  .logo {
+    background-color: #DAE2F8;
+    height: 104px;
+    width: 115px;
+    object-fit: cover;
+  }
+  
+  .team-name {
+    color: #ffffff;
+    font-family: Teko;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+  }
